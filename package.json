@@ -1,8 +1,9 @@
 {
-  "name": "my-project-name",
+  "name": "All Product Landing Page - Infrotrellis",
   "version": "0.1.0",
   "devDependencies": {
     "grunt": "~0.4.2",
+    "grunt-contrib-compass" : "~0.7.1",
     "grunt-contrib-uglify": "~0.2.2",
     "grunt-contrib-sass": "^0.7.3"
   }
